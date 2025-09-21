@@ -7,5 +7,3 @@ From anna.scaife@manchester.ac.uk
 There are other things that need to be considered here.
 
 What other notes should I add here?
-
-I guess we should try a different approach.
