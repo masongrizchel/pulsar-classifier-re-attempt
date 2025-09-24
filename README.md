@@ -7,5 +7,3 @@ From anna.scaife@manchester.ac.uk
 There are other things that need to be considered here.
 
 Added parameters.
-
-Few more things.
