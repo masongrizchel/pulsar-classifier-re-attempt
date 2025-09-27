@@ -5,3 +5,7 @@ A revisited attempt from CSC2019's Introduction to Machine Learning. Here we wil
 From anna.scaife@manchester.ac.uk
 
 There are other things that need to be considered here.
+
+Provided more info;
+
+While there are other parameters to be added.
