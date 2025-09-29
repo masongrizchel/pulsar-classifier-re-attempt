@@ -7,5 +7,3 @@ From anna.scaife@manchester.ac.uk
 Added a few more arrangements.
 
 Codes were added as well.
-
-Notified the personnel involved.
