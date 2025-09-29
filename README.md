@@ -7,5 +7,3 @@ From anna.scaife@manchester.ac.uk
 Adding some supplementary materials.
 
 Provided some notes regarding the changes.
-
-WHat else to be added?
