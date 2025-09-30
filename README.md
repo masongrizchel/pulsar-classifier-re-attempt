@@ -7,5 +7,3 @@ From anna.scaife@manchester.ac.uk
 Have considered several workflows that we can test.
 
 Things to add.
-
-Things to limit.
