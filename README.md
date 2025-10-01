@@ -5,5 +5,3 @@ A revisited attempt from CSC2019's Introduction to Machine Learning. Here, we wi
 From anna.scaife@manchester.ac.uk
 
 Added major revisions with the workflow.
-
-Noted some challenges.
