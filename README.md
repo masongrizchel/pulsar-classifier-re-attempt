@@ -7,5 +7,3 @@ From anna.scaife@manchester.ac.uk
 Added major revisions with the workflow.
 
 Noted some challenges.
-
-Here are some of the examples ....
